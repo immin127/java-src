@@ -1,7 +1,5 @@
 package Basic;
 
-import java.util.ArrayList;
-
 public class Test03 {
     public static void main(String[] args) {
         // 형변환
@@ -11,6 +9,7 @@ public class Test03 {
 
         long b = a;
         System.out.println(a);
+        System.out.println(b);
         
         //작은 형태로 변환
         long c = 10;

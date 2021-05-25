@@ -8,8 +8,8 @@ public class Test01{
         // 조건식 ? true인 경우의 값 : false인 경우의 값
         
         Scanner sc = new Scanner(System.in);
-        int age = sc.nextInt();30
-
+        int age = sc.nextInt();
+        sc.close();
         String s = age >= 20 ? "성인" : "미성년자";
         System.out.println("삼항연산자 사용 : 당신은 " + s + " 입니다.");
 
