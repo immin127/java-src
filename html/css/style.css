@@ -1,0 +1,10 @@
+
+.textColor{
+    color: red;
+}
+.textColor{
+    color:purple;
+}
+body{
+    background: url(../img/home.jpg) no-repeat center center / 300px 200px;
+}

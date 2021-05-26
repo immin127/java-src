@@ -8,6 +8,76 @@
             "type": "java",
             "name": "Launch Main",
             "request": "launch",
+            "mainClass": "Ex05.Q010.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q009",
+            "request": "launch",
+            "mainClass": "Ex05.Q009",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q008",
+            "request": "launch",
+            "mainClass": "Ex05.Q008",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q007",
+            "request": "launch",
+            "mainClass": "Ex05.Q007",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q006",
+            "request": "launch",
+            "mainClass": "Ex05.Q006",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q005",
+            "request": "launch",
+            "mainClass": "Ex05.Q005",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q004",
+            "request": "launch",
+            "mainClass": "Ex05.Q004",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q003",
+            "request": "launch",
+            "mainClass": "Ex05.Q003",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q002",
+            "request": "launch",
+            "mainClass": "Ex05.Q002",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Q001",
+            "request": "launch",
+            "mainClass": "Ex05.Q001",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
             "mainClass": "Ex04.Main",
             "projectName": "java-src_6650c671"
         },
