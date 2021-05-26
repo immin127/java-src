@@ -7,5 +7,13 @@ public class Q002 {
         for(int i = 0; i < array.length; i++){
             System.out.println(array[i]*2);
         }
+
+        int[] array2 = {1,2,3,4,5};
+        for(int i = 0; i<array2.length; i++){
+            array[i] *= 2;
+        }
+        for(int i =0; i < array2.length; i++){
+            System.out.println(array2[i]);
+        }
     }
 }

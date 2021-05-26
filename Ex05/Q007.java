@@ -1,23 +1,13 @@
 package Ex05;
 
-import java.util.Scanner;
-
 public class Q007 {
     public static void main(String[] args) {
-
-        System.out.println("숫자를 입력하십시오.");
-        int n = (new Scanner(System.in)).nextInt();
-        for(int i = 0; i<8; i++){
-            if(i%2 == 0){
-                for(int j = 0; j<n; j++){
-                    System.out.print("□");
-                }
-            } else{
-                for(int j = 0; j<n; j++){
-                    System.out.print("■");
-                }
-            }
-            System.out.println();
+        int a = 2;
+        int b = 8;
+        int sum = 1;
+        for(int i = 0; i < b; i++){
+            sum *= a;
         }
+        System.out.println(a + "의 " + b + "제곱은 " + sum + "입니다.");
     }
 }

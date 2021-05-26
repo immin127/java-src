@@ -6,11 +6,13 @@ public class Q005 {
         int[] rank = {1,4,2,3,0};
 
         System.out.println("----- 출석 번호 순 -----");
+        //출석번호순으로
         for(int i=0; i<score.length; i++){
             System.out.println(i+1 + "번 : " + score[i] + " 점");
         }
 
         System.out.println("----- 득점 순 -----");
+        //높은 점수 순으로
         for(int i=0; i<score.length; i++){
             for(int j = i+1; j<score.length; j++){
                 if(score[i]<score[j]){
@@ -20,6 +22,10 @@ public class Q005 {
                 }
             }
             System.out.println(i+1 + "위 : "+ score[i] + " 점");
+        }
+
+        for(int i = 0; i < score.length; i++){
+            System.out.println((i+1) + " 번 " + score[rank[i]] + "점");
         }
     }
 }
