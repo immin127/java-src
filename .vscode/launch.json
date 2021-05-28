@@ -6,6 +6,230 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex07.Test.ex04.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex07.Test.ex03.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex07.Test.ex02.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex07.Test.ex01.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionTest7",
+            "request": "launch",
+            "mainClass": "Ex07.FractionTest7",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionTest6",
+            "request": "launch",
+            "mainClass": "Ex07.FractionTest6",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionTest4",
+            "request": "launch",
+            "mainClass": "Ex07.FractionTest4",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionTest2",
+            "request": "launch",
+            "mainClass": "Ex07.FractionTest2",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch FractionTest1",
+            "request": "launch",
+            "mainClass": "Ex07.FractionTest1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringObjectTest",
+            "request": "launch",
+            "mainClass": "Ex07.StringObjectTest",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Calendar01",
+            "request": "launch",
+            "mainClass": "Ex06.Calendar01",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex06.Test.ex05.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch LoginCheck",
+            "request": "launch",
+            "mainClass": "Ex06.Test.ex04.LoginCheck",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex06.Test.ex03.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch GCDExam",
+            "request": "launch",
+            "mainClass": "Ex06.method.GCDExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max6",
+            "request": "launch",
+            "mainClass": "Ex06.method.Max6",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex06.Test.ex02.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Ex06.Test.Main",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArraySample",
+            "request": "launch",
+            "mainClass": "Ex06.Test.ArraySample",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01",
+            "request": "launch",
+            "mainClass": "Ex06.method.Test01",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max5",
+            "request": "launch",
+            "mainClass": "Ex06.method.Max5",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max4",
+            "request": "launch",
+            "mainClass": "Ex06.method.Max4",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenTest",
+            "request": "launch",
+            "mainClass": "Ex06.method.EvenTest",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Max2",
+            "request": "launch",
+            "mainClass": "Ex06.method.Max2",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Number",
+            "request": "launch",
+            "mainClass": "Ex06.method.Number",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaxValue",
+            "request": "launch",
+            "mainClass": "Ex06.method.MaxValue",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenOdd",
+            "request": "launch",
+            "mainClass": "Ex06.method.EvenOdd",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SixMsg4",
+            "request": "launch",
+            "mainClass": "Ex06.method.SixMsg4",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SixMsg301",
+            "request": "launch",
+            "mainClass": "Ex06.method.SixMsg301",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SixMsg3",
+            "request": "launch",
+            "mainClass": "Ex06.method.SixMsg3",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SixMsg2",
+            "request": "launch",
+            "mainClass": "Ex06.method.SixMsg2",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Msg",
+            "request": "launch",
+            "mainClass": "Ex06.method.Msg",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
             "name": "Launch Q013",
             "request": "launch",
             "mainClass": "Ex05.Q013",
