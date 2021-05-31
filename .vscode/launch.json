@@ -6,6 +6,90 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Test05",
+            "request": "launch",
+            "mainClass": "Basic.Test05",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam005",
+            "request": "launch",
+            "mainClass": "Ex08.Test.Exam005",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam004",
+            "request": "launch",
+            "mainClass": "Ex08.Test.Exam004",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam002",
+            "request": "launch",
+            "mainClass": "Ex08.Test.Exam002",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam001",
+            "request": "launch",
+            "mainClass": "Ex08.Test.Exam001",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SetExam",
+            "request": "launch",
+            "mainClass": "Ex08.SetExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticClassesExam1",
+            "request": "launch",
+            "mainClass": "Ex08.StaticClassesExam1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticMethodsExam",
+            "request": "launch",
+            "mainClass": "Ex08.StaticMethodsExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticValuesExam2",
+            "request": "launch",
+            "mainClass": "Ex08.StaticValuesExam2",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch StaticValuesExam1",
+            "request": "launch",
+            "mainClass": "Ex08.StaticValuesExam1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch PackageExam1",
+            "request": "launch",
+            "mainClass": "Ex08.PackageExam1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch WrapperClassTest",
+            "request": "launch",
+            "mainClass": "Ex08.WrapperClassTest",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "Ex07.Test.ex04.Main",
