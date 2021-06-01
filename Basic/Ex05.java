@@ -1,6 +1,6 @@
 package Basic;
 
-public class Test05 {
+public class Ex05 {
     public static void main(String[] args) {
         // switch문
         // switch(식) {

@@ -3,8 +3,9 @@ package Basic;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Test06 {
-    // for문
+public class Ex06 {
+    public static void main(String[] args) {
+        // for문
     // for(초기화; 조건; 갱신){
     //     처리
     // }
@@ -23,7 +24,7 @@ public class Test06 {
     List<String> list = new ArrayList<String>();
     
     // for문의 경우
-    for(int j = 0; j < list.size; j++){
+    for(int j = 0; j < list.size(); j++){
         System.out.println(list.get(j));
     }
 
@@ -31,5 +32,5 @@ public class Test06 {
     for(String str : list){
         System.out.println(str);
     }
-
+    }
 }

@@ -1,6 +1,6 @@
 package Basic;
 
-public class Test04 {
+public class Ex04 {
     public static void main(String[] args) {
         // if문
 

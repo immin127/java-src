@@ -1,6 +1,6 @@
 package Basic;
 
-public class Test02 {
+public class Ex02 {
     public static void main(String[] args) {
         // 논리연산자
         // (||)대문자와 소문자를 다른문자로 인식(->같은문자로 인식하게)

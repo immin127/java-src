@@ -2,7 +2,7 @@ package Basic;
 
 import java.util.Scanner;
 
-public class Test01{
+public class Ex01{
     public static void main(String[] args) {
         // 삼항 연산자
         // 조건식 ? true인 경우의 값 : false인 경우의 값

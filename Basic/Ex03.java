@@ -1,6 +1,6 @@
 package Basic;
 
-public class Test03 {
+public class Ex03 {
     public static void main(String[] args) {
         // 형변환
         // 기본형 변환
