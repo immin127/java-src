@@ -6,6 +6,76 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Ex04",
+            "request": "launch",
+            "mainClass": "Ex09.Test.Ex04",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch PersonMain",
+            "request": "launch",
+            "mainClass": "Ex09.Test.Exception.PersonMain",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Person",
+            "request": "launch",
+            "mainClass": "Ex09.Test.Exception.Person",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exam",
+            "request": "launch",
+            "mainClass": "Ex09.Test.Exception.Exam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch URLExam",
+            "request": "launch",
+            "mainClass": "Ex09.URLExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch PrintList1",
+            "request": "launch",
+            "mainClass": "Ex09.PrintList1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumericInput",
+            "request": "launch",
+            "mainClass": "Ex09.NumericInput",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch EvenExam2",
+            "request": "launch",
+            "mainClass": "Ex09.EvenExam2",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivideByZero",
+            "request": "launch",
+            "mainClass": "Ex09.DivideByZero",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExceptionExam1",
+            "request": "launch",
+            "mainClass": "Ex09.ExceptionExam1",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
             "name": "Launch Test05",
             "request": "launch",
             "mainClass": "Basic.Test05",
