@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MultiThread3Exam",
+            "request": "launch",
+            "mainClass": "Ex10.MultiThread3Exam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThread2Exam",
+            "request": "launch",
+            "mainClass": "Ex10.MultiThread2Exam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThreadExam",
+            "request": "launch",
+            "mainClass": "Ex10.MultiThreadExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiplicationExam",
+            "request": "launch",
+            "mainClass": "Ex10.MultiplicationExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
+            "name": "Launch SingleThreadExam",
+            "request": "launch",
+            "mainClass": "Ex10.SingleThreadExam",
+            "projectName": "java-src_6650c671"
+        },
+        {
+            "type": "java",
             "name": "Launch Ex09",
             "request": "launch",
             "mainClass": "Basic.Ex09",
